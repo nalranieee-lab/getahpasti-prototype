@@ -1,1 +1,0 @@
-# getahpasti-prototype
